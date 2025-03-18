@@ -4,7 +4,7 @@
 
 My name is Fábio Sousa
 
-I am a Developer Relations Engineer at [Heroic Labs](https://heroiclabs.com/),Alumni at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/),and make game on my free time at [GameDevTecnico](https://gamedev.tecnico.ulisboa.pt/).
+I am a Developer Relations Engineer at [Heroic Labs](https://heroiclabs.com/), Alumni at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/),and make game on my free time at [GameDevTecnico](https://gamedev.tecnico.ulisboa.pt/).
 
 [My Games Portfolio](https://dannyisyog.github.io/gamedev-portfolio/#/) | [Itch.io account](https://dannyisyog.itch.io/) | [Linkedin](https://www.linkedin.com/in/dannyisyog/)
 
